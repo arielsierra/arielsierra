@@ -1,0 +1,185 @@
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  height: 110px;
+  margin: 150px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5625rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 6%;
+}
+
+p {
+
+  line-height: 2;
+}
+
+/*Class selectors */
+.about-text {
+  margin: 25px auto 50px auto;
+  text-align: justify;
+  width: 30%;
+}
+
+.crm-img {
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.computer-img {
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.communication-img {
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.contacme-button {
+height: 30px;
+width: 10px;
+}
+
+.contactme-button {
+  font-size: .8em;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background: #66BFBF;
+  padding: .75rem 2rem .75rem 2rem;
+  color: white;
+  text-decoration: none;
+  margin: 1.5em 0 0;
+  border-radius: 3px;
+  font-weight: 400;
+  border: 0;
+  text-transform: uppercase;
+}
+
+.contactme-button:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #11cdd4 100%);
+	background-color:#30e3cb;
+}
+.contactme-button:active {
+	position:relative;
+	top:1px;
+}
+.contact-title {
+  margin: 0 auto 30px auto;
+}
+
+.contact-text {
+  margin: 40px auto 60px;
+  width: 40%;
+}
+
+.contact-h3 {
+  margin: auto auto 30px auto;
+}
+
+.contact-me {
+  padding-top: 75px;
+  padding-bottom: 75px;
+
+}
+
+.copyright{
+  color: #EAF6F6;
+  text-align: center;
+  margin: 30px auto auto auto;
+
+}
+
+.devtitle {
+  margin: auto 50px 30px auto;
+
+}
+
+.footer-link {
+
+  color: #11999E;
+  text-decoration: none;
+}
+
+.top-container{
+
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  padding-bottom: 26%;
+  position: relative;
+
+}
+
+.middle-container {
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin: 0;
+  padding: 50px 0 20px;
+  position: relative;
+}
+
+
+.profilepic {
+  border-radius: 100%;
+  height: 200px;
+  width: 200px;
+}
+
+.profile {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.skills {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
